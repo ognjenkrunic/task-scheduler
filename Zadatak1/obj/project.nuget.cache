@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZE8nZd0Xk1DkszcLGmywA5H9rc9lzNpVfSj9rlfh5fcAWo5bxHAYl35DHvTlAAYxbmKBz/qj94zJ89ftoDdfOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lenovo T420\\source\\repos\\OposZadaci2020\\Zadatak1\\Zadatak1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo T420\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lenovo T420\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
